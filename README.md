@@ -1,5 +1,9 @@
 <img alt="banner github" src = "https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp">
-<h1 align="center">Hola 👋  soy Edgar / EdRav.Dev ✨ </h1> 
+
+<div align="center">
+<h1 align="center"> < Hola 👋  soy Edgar / EdRav.Dev ✨ /> </h1> 
+</div>
+
 
 <p align="left">
   <a href="https://www.twitch.tv/iedrav_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"  /></a>
