@@ -18,7 +18,11 @@
 <br>
 <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture><h1>About me :tea: </h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Hello my name is Edgar Flores from México. I am a Software Engineering student at the Autonomous University of Sinaloa UAS
+- :mortar_board: I'm Software Engineering student
+- 🌐 I'm a Front-end Web Developer
+- 💻 I'm currently training to become a Full-Stack developer
+- :iphone: I'm currently learning to become a mobile developer
+- :video_game: I love play videogames
 
-<!--Intro start-->
 
