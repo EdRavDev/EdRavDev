@@ -4,8 +4,9 @@
 <h1 align="center"> < Hola 👋  soy Edgar - EdRav.Dev ✨ /> </h1> 
 </div>
 
-<div align="center">
+
 <p align="left">
+<div align="center">
   <a href="https://www.twitch.tv/iedrav_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"  /></a>
 <a href="https://www.tiktok.com/@edrav_" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" /></a>
 <a href="https://www.linkedin.com/in/edrav-dev/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
