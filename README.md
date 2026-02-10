@@ -25,4 +25,6 @@ Hello my name is Edgar Flores from México. I am a Software Engineering student 
 - :iphone: I'm currently learning to become a mobile developer
 - :video_game: I love play videogames
 
+![snake gif](https://github.com/EdRavDev/EdRavDev/blob/output/github-snake-dark.svg)
+
 
